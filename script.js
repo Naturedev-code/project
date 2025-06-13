@@ -31,10 +31,10 @@ function updateElement(id, value) {
 // Funny messages
 const messages = [
     "GU 💖",
-    "CHASMIS 😊",
-    "HYEAA 🥰",
-    "NABOL 😘",
-    "JA JA JA 💝",
+    "CHASMIS 🕶️",
+    "HYEAA 😡",
+    "NABOL😒 ",
+    "JA JA JA ",
     "My Cutie! 🌹",
     "Love You! ❤️",
     "Best Friends! 💫"
